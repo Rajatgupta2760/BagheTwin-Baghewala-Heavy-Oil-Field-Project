@@ -1,0 +1,8 @@
+{
+  "name": "ThermaLift AI: Thermal-Lift Digital Twin",
+  "description": "Coupled physics-AI digital twin for Cyclic Steam Stimulation (CSS) and Sucker Rod Pumping (SRP) closed-loop optimization at Baghewala Heavy Oil Field, Rajasthan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
